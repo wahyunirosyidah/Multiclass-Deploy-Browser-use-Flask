@@ -1,6 +1,6 @@
 # Cara Menjalankan 
 
-## Step 1: Jalankan model di file 'ML-Side augmentation copy 2.ipynb' yang ada di repository https://github.com/wahyunirosyidah/LokaJamu. Jalankan hingga lokajamu_model.h5 berhasil disimpan di lokal
+## Step 1: Jalankan model di file 'ML-Side.ipynb' 
 =============================================
 ## Step 2: Buka app.py dan jalankan 
 Expected Output:
