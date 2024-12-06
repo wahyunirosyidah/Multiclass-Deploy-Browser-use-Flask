@@ -1,6 +1,6 @@
 # Cara Menjalankan 
 
-## Step 1: Jalankan model di file 'ML-Side.ipynb' 
+## Step 1: Dapatkan model dengan menjalankan file 'ML-Side.ipynb' 
 =============================================
 ## Step 2: Buka app.py dan jalankan 
 Expected Output:
