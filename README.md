@@ -1,6 +1,6 @@
 # Cara Menjalankan 
 
-## Step 1: Dapatkan model dengan menjalankan file 'ML-Side.ipynb' 
+## Step 1: Dapatkan model h5 dengan menjalankan file 'ML-Side.ipynb' atau mengambil di https://drive.google.com/drive/folders/1wJoyddDqDPYFhX16qbgtoD9RlxI1dPU0?usp=sharing dengan nama file lokajamu_model.h5
 =============================================
 ## Step 2: Buka app.py dan jalankan 
 Expected Output:
